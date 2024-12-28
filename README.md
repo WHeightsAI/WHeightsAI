@@ -1,11 +1,10 @@
 # Hi! I am Heath!
 
-Welcome to **WHeightsAI**!
+Welcome to **WutherHeights**!
 
 ## About Me
 I currently work as a product manager for [DuoAlly](https://duoally.github.io/). I thrive at the intersection of technology and imagination, constantly exploring the edges of innovation. My work primarily focuses on:
 
-- **AI Development**: Pushing boundaries with machine learning and AI.
 - **Creative Coding**: Crafting unique and expressive projects.
 - **Exploration**: Venturing into new technologies and methodologies.
 
