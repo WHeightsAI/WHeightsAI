@@ -11,6 +11,6 @@ I currently work as a product manager for [DuoAlly](https://duoally.github.io/).
 ## Connect
 Feel free to check out the GitHub organization for [DuoAlly](https://github.com/DuoAlly).
 
-![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=wheightsai)
+![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=WutherHeights)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheightsai)
