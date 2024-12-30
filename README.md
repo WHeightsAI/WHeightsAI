@@ -13,4 +13,4 @@ Feel free to check out the GitHub organization for [DuoAlly](https://github.com/
 
 ![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=WutherHeights)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wheightsai)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WutherHeights)
